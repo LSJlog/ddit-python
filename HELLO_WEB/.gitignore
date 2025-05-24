@@ -1,0 +1,11 @@
+# 이클립스 프로젝트 설정 파일
+.project
+.classpath
+.settings/
+
+# 빌드 결과물
+build/
+
+# 운영체제별 불필요 파일
+.DS_Store
+Thumbs.db
