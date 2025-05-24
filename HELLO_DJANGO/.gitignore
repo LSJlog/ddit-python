@@ -1,0 +1,15 @@
+# Python 바이트코드 및 캐시 폴더
+__pycache__/
+*.pyc
+*.pyo
+
+# Django 개발용 SQLite DB 파일
+db.sqlite3
+
+# 이클립스(PyDev) 프로젝트 설정 파일
+.project
+.pydevproject
+
+# macOS/Windows 불필요 파일
+.DS_Store
+Thumbs.db
